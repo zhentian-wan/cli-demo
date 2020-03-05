@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "debug": "^4.1.1",
+    "supports-color": "^7.1.0"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "json-beautify": "^1.1.1",
+    "prettyjson": "^1.2.1",
+    "sign-bunny": "^1.0.0"
+  }
+}
